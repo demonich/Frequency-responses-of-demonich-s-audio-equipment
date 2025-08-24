@@ -7,3 +7,4 @@
 
 # My curve
 
+![1](Fengru-EMX500S.jpg)
