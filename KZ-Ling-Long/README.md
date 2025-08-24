@@ -9,3 +9,5 @@
 For some reason they were difficult to record.
 
 ![2](bruh.jpg)
+
+Also, they are my favorite earphones: easy to equalize and have nice sub-bass.
