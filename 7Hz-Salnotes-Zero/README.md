@@ -2,7 +2,7 @@
 
 # My curve
 
-![1](7Hz.jpg)
+![1](7Hz-Salnotes-Zero.jpg)
 
 # Feature
 
