@@ -9,6 +9,6 @@
 
 ![1](Fengru-EMX500S.jpg)
 
-# Feature
+# Additional info
 
 As you can see, I'm using flat-head earphones with tips that allow them to be used as in-ear earphones.
