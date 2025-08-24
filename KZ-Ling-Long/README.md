@@ -4,7 +4,7 @@
 
 ![1](KZ-Ling-Long.jpg)
 
-# Feature
+# Additional info
 
 For some reason they were difficult to record.
 
