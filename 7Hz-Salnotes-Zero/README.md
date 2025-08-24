@@ -4,7 +4,7 @@
 
 ![1](7Hz-Salnotes-Zero.jpg)
 
-# Feature
+# Additional info
 
 Many people's graphs have a peak at 8000 kHz, which even my own ear can't hear.
 
