@@ -1,6 +1,4 @@
-# Where did you get it?
-
-[Aliexpress](https://aliexpress.ru/item/1005004575085753.html)
+<img src="https://github.com/user-attachments/assets/6d839694-a347-4222-9c12-45d0eba4015e" alt="drawing" width=30%/> </p>
 
 # My curve
 
