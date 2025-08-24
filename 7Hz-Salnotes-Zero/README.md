@@ -1,4 +1,4 @@
-# Where did you buy it?
+# Where did you get it?
 
 [Aliexpress](https://aliexpress.ru/item/1005004575085753.html)
 
