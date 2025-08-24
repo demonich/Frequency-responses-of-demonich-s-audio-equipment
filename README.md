@@ -1,6 +1,6 @@
 # Frequency responses of my audio equipment
 
-I am going to post here the frequency responses curves of the audio devices available to me. 
+I am going to post here the frequency response curves of the audio devices available to me. 
 
 # introductory
 
