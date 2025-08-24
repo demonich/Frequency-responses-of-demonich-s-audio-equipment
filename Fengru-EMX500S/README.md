@@ -8,3 +8,7 @@
 # My curve
 
 ![1](Fengru-EMX500S.jpg)
+
+# Feature
+
+As you can see, I'm using flat-head earphones with tips that allow them to be used as in-ear earphones.
