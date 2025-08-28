@@ -1,3 +1,5 @@
+DDISCLAIMER: first - all measurements are wrong (again), I'm going to redo everything. second - all measurements are provided for MY audio equipment and in 100% of cases will not reflect the situation for similar models of audio equipment either at your place or in stores.
+
 # Frequency responses of my audio equipment
 
 I am going to post here the frequency response curves of the audio devices available to me. 
